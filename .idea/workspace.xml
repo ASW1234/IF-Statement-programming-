@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f4c49a7-3203-4f51-a23f-a4d2227fd2f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifstatement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IfStatement.java" afterDir="false" />
-    </list>
+    <list default="true" id="1f4c49a7-3203-4f51-a23f-a4d2227fd2f6" name="Changes" comment="&quot;Third programm If Statment&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,9 +40,30 @@
       <option name="presentableId" value="Default" />
       <updated>1675784120607</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;Third programm If Statment&quot;">
+      <created>1676022788428</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676022788428</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="&quot;Third programm If Statment&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Third programm If Statment&quot;" />
   </component>
 </project>
